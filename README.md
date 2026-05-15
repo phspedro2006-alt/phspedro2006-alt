@@ -1,21 +1,28 @@
-# phspedro2006-alt / README.md
+# Olá, eu sou o Pedro Henrique 👋
 
 👨‍💻 **Desenvolvedor Backend em formação**
-🎓 Cursando [Seu Curso Aqui]
-📧 Contato: phs.pedro2006@gmail.com
+🎓 Auxiliar de Informática | TI
+📧 Contato: [phs.pedro2006@gmail.com](mailto:phs.pedro2006@gmail.com)
+📍 Rio de Janeiro, Brasil
 
 ---
 
 ### 🛠 Tecnologias e Ferramentas
+
 <div style="display: inline_block">
   <img align="center" alt="C-Sharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Dot-Net" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 ---
 
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phspedro2006-alt&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phspedro2006-alt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phspedro2006-alt&layout=compact&theme=tokyonight)
