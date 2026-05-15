@@ -1,12 +1,9 @@
 # Olá, eu sou o Pedro Henrique 👋
 
 ### 👨‍💻 Desenvolvedor Backend em formação | C# & .NET
-Focado em construir APIs eficientes e apaixonado por tecnologia.
 
 - 🎓 **Cursando:** Análise e Desenvolvimento de Sistemas (2º Período).
 - 🏫 **Formação:** Técnico em Programação pela **FAETEC**.
-- 💼 **Atuação:** Auxiliar de Informática | TI na Universidade Santa Úrsula.
-- 🎂 **Idade:** 19 anos.
 - 📍 **Localização:** Rio de Janeiro, Brasil.
 - 📧 **Contato:** [phs.pedro2006@gmail.com](mailto:phs.pedro2006@gmail.com)
 
