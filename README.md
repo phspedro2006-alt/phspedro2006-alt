@@ -1,4 +1,4 @@
-# Pedro Henrique Rangel Soares
+# Pedro Henrique 
 **Backend Developer | Infrastructure & IT Support**
 
 Analista e Desenvolvedor de Sistemas em formação com sólida base técnica em programação (FAETEC) e infraestrutura de TI. Atualmente focado no ecossistema .NET para construção de soluções escaláveis e no suporte tecnológico institucional.
