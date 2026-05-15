@@ -5,16 +5,6 @@ Analista e Desenvolvedor de Sistemas em formação com sólida base técnica em 
 
 ---
 
-### Formação Acadêmica
-* **Análise e Desenvolvimento de Sistemas** | UniFatecie (Cursando)
-* **Técnico em Programação de Jogos Digitais** | FAETEC / ETER
-
-### Atuação Profissional
-* **Auxiliar de TI** na Universidade Santa Úrsula (USU)
-* Rio de Janeiro, Brasil | 19 anos
-
----
-
 ### Hard Skills
 
 <div style="display: inline_block">
