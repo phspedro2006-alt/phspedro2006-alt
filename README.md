@@ -21,8 +21,3 @@
 </div>
 
 ---
-
-### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=phspedro2006-alt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phspedro2006-alt&layout=compact&theme=tokyonight)
