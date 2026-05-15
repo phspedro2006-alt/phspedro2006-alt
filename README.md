@@ -7,6 +7,16 @@ Analista e Desenvolvedor de Sistemas em formação com sólida base técnica em 
 
 ### Hard Skills
 
+### Contato
+* **Email:** phs.pedro2006@gmail.com
+* **LinkedIn:** [linkedin.com/in/pedro-henrique-2a109125b](https://linkedin.com/in/pedro-henrique-2a109125b)
+
+---
+
+
+### Contato
+* **Email:** phs.pedro2006@gmail.com
+* **LinkedIn:** [linkedin.com/in/pedro-henrique-2a109125b](https://linkedin.com/in/pedro-henrique-2a109125b)
 <div style="display: inline_block">
   <img align="center" alt="C#" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
@@ -17,10 +27,3 @@ Analista e Desenvolvedor de Sistemas em formação com sólida base técnica em 
   <img align="center" alt="RStudio" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="VS Code" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
-
----
-
-
-### Contato
-* **Email:** phs.pedro2006@gmail.com
-* **LinkedIn:** [linkedin.com/in/pedro-henrique-2a109125b](https://linkedin.com/in/pedro-henrique-2a109125b)
