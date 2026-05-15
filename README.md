@@ -30,14 +30,6 @@ Analista e Desenvolvedor de Sistemas em formação com sólida base técnica em 
 
 ---
 
-### GitHub Analytics
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phspedro2006-alt&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phspedro2006-alt&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff" />
-</p>
-
----
 
 ### Contato
 * **Email:** phs.pedro2006@gmail.com
