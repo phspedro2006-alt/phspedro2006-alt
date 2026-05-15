@@ -5,13 +5,6 @@ Analista e Desenvolvedor de Sistemas em formação com sólida base técnica em 
 
 ---
 
-### Hard Skills
-
-### Contato
-* **Email:** phs.pedro2006@gmail.com
-* **LinkedIn:** [linkedin.com/in/pedro-henrique-2a109125b](https://linkedin.com/in/pedro-henrique-2a109125b)
-
----
 <div style="display: inline_block">
   <img align="center" alt="C#" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
