@@ -1,22 +1,18 @@
 ## Hello World, I'm Pedro Henrique Rangel, be very welcome
 
 <p align="left">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img height="160" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+  <img height="170" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&langs_count=6">
 </p>
 
 <p align="left">
-  <img alt="C#" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt=".NET" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="HTML5" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="CSS3" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="JavaScript" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="Python" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;
-  <img alt="SQL Server" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img alt="Tecnologias" height="64" src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,py,bootstrap,mysql&perline=8">
 </p>
 
 <p align="left">
+  <a href="https://youtube.com/@SEU_CANAL"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/SEU_INSTAGRAM"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:seu@email.com"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+  <a href="https://twitch.tv/SEU_CANAL"><img alt="Twitch" src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="mailto:seu@email.com"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/SEU_USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
