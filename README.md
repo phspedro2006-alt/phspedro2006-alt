@@ -1,8 +1,6 @@
-<table>
-<tr>
-<td valign="top">
+<img align="right" src="./foto.jpg" alt="Simon" width="330">
 
-## Oieee, seja bem vindo(a) 👋
+## Oieee, seja bem vindo(a) 👆
 
 **Me chamo Pedro Henrique, tenho [IDADE] anos e moro em [CIDADE-UF]!**
 
@@ -22,18 +20,11 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 
-</td>
-<td valign="top">
-
-<img src="./foto.jpg" alt="Simon" width="300">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <p align="left">
-  <img height="170" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="165" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=300">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 </p>
 
 🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://linkedin.com/in/SEU_USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
