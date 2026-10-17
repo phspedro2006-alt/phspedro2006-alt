@@ -10,15 +10,6 @@
 - 🎓 Analista e Desenvolvedor de Sistemas em formação (FAETEC)
 - 😁 Venha me conhecer mais um pouco.
 
-</td>
-<td>
-
-<img src="./foto.png" alt="Simon" width="300">
-
-</td>
-</tr>
-</table>
-
 ## Tools i know ✨
 
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
@@ -30,6 +21,15 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+
+</td>
+<td valign="top">
+
+<img src="./foto.jpg" alt="Simon" width="300">
+
+</td>
+</tr>
+</table>
 
 <p align="left">
   <img height="170" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
