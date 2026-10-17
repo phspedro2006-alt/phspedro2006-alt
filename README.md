@@ -10,9 +10,6 @@
 </p>
 
 <p align="left">
-  <a href="https://youtube.com/@SEU_CANAL"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/SEU_INSTAGRAM"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://twitch.tv/SEU_CANAL"><img alt="Twitch" src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="mailto:seu@email.com"><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/SEU_USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
