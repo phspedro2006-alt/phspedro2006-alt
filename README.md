@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:003f9e&height=140&section=header&text=PEDRO%20HENRIQUE&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20%7C%20C%23%20%7C%20ASP.NET%20Core%20%7C%20JavaScript&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=19&duration=2500&pause=1200&color=0072FF&center=true&vCenter=true&width=600&height=32&lines=Desenvolvedor+Full+Stack;C%23+%7C+ASP.NET+Core+%7C+HTML+%7C+CSS+%7C+JavaScript;Rio+de+Janeiro%2C+Brasil" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=1200&color=0072FF&center=true&vCenter=true&width=600&height=32&lines=Transformando+caf%C3%A9+em+c%C3%B3digo;Construindo+APIs+e+interfaces+web;Rio+de+Janeiro%2C+Brasil" alt="Typing" />
 </div>
 
 <table align="center">
@@ -10,11 +10,11 @@
       <img src="https://github.com/user-attachments/assets/4da49f98-5bd0-4831-9aa6-f624253e693c" width="120" alt="Imagem" />
     </td>
     <td align="left" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=1&pause=1000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=32&lines=Desenvolvedor+Full+Stack" alt="Full Stack" /><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=1&pause=1000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=Back-end%3A+C%23+e+ASP.NET+Core" alt="Back-end" /><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=1&pause=1000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=Front-end%3A+HTML%2C+CSS+e+JavaScript" alt="Front-end" /><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=1&pause=1000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=Experi%C3%AAncia+real+em+TI+corporativa" alt="TI" /><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&duration=1&pause=1000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=Buscando+est%C3%A1gio+para+crescer+como+dev" alt="Estágio" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=100000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=%24+nome%3A+Pedro+Henrique+Rangel+Soares" alt="nome" /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=100000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=%24+fun%C3%A7%C3%A3o%3A+Desenvolvedor+Full+Stack" alt="função" /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=100000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=%24+back-end%3A+C%23+%7C+ASP.NET+Core" alt="back-end" /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=100000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=%24+front-end%3A+HTML+%7C+CSS+%7C+JavaScript" alt="front-end" /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=100000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=%24+local%3A+Rio+de+Janeiro%2C+Brasil" alt="local" />
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,html,css,js,postgres,mysql,docker,postman,azure&perline=14&theme=light" width="420" alt="Skills" />
     </td>
