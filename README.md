@@ -5,9 +5,6 @@
   <img src="https://github.com/user-attachments/assets/4da49f98-5bd0-4831-9aa6-f624253e693c" width="140" alt="Imagem" />
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:2f6fde,100:7c4dff&height=70&section=header&reversal=true" width="100%" alt="" />
-  <br/>
-
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1&pause=1000&color=2F6FDE&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%F0%9F%92%BB+TECH+STACK" alt="Tech Stack" />
   <br/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
