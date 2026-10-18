@@ -36,11 +36,6 @@
   <a href="https://github.com/phspedro2006-alt"><img src="https://img.shields.io/badge/GitHub-2F6FDE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1&pause=1000&color=2F6FDE&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%F0%9F%8F%86+TROF%C3%89US" alt="Troféus" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=phspedro2006-alt&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" width="800" alt="Troféus" />
-  <br/><br/>
-
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1&pause=1000&color=2F6FDE&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%F0%9F%93%8A+GITHUB+STATS" alt="Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=phspedro2006-alt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="130" alt="Stats" />
