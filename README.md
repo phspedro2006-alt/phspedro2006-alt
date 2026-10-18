@@ -10,9 +10,11 @@
       <img src="https://github.com/user-attachments/assets/4da49f98-5bd0-4831-9aa6-f624253e693c" width="120" alt="Imagem" />
     </td>
     <td align="left" valign="middle">
-      <b>Desenvolvedor Full Stack em formação</b>, unindo <b>Back-end (C# e ASP.NET Core)</b> e <b>Front-end (HTML, CSS e JavaScript)</b> à experiência real em TI corporativa.<br/><br/>
-      Cursando <b>Análise e Desenvolvimento de Sistemas</b> (UniFatecie, previsão 2027), com base sólida em lógica de programação, banco de dados e Git.<br/><br/>
-      🚀 Busco <b>estágio</b> para colocar a mão na massa e crescer como desenvolvedor.
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=1&pause=1000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=32&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o" alt="Full Stack" /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=1&pause=1000&color=00A8E8&center=false&vCenter=true&repeat=false&width=520&height=26&lines=Back-end%3A+C%23+e+ASP.NET+Core" alt="Back-end" /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=1&pause=1000&color=00A8E8&center=false&vCenter=true&repeat=false&width=520&height=26&lines=Front-end%3A+HTML%2C+CSS+e+JavaScript" alt="Front-end" /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=1&pause=1000&color=3FAE2A&center=false&vCenter=true&repeat=false&width=520&height=26&lines=Experi%C3%AAncia+real+em+TI+corporativa" alt="TI" /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&duration=1&pause=1000&color=0072FF&center=false&vCenter=true&repeat=false&width=520&height=26&lines=Buscando+est%C3%A1gio+para+crescer+como+dev" alt="Estágio" />
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,html,css,js,postgres,mysql,docker,postman,azure&perline=14&theme=light" width="420" alt="Skills" />
     </td>
@@ -25,4 +27,4 @@
   <img src="https://streak-stats.demolab.com?user=phspedro2006-alt&border_radius=20&border=ffffff&background=30,00c6ff,0072ff&ring=b6ff6a&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b6ff6a&sideLabels=ffffff&dates=e0f7ff" height="110" alt="Streak" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7ed957,50:00c6ff,100:0072ff&height=70&section=footer" width="100%" alt="Footer" />
-</div>s
+</div>
